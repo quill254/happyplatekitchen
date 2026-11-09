@@ -1,0 +1,49 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="400" fill="#fef9f3"/>
+
+<!-- Plate -->
+<ellipse cx="200" cy="270" rx="160" ry="55" fill="#f5f5f4"/>
+<ellipse cx="200" cy="265" rx="160" ry="55" fill="#ffffff"/>
+<ellipse cx="200" cy="265" rx="130" ry="42" fill="#fafaf9"/>
+
+<!-- Mandazi triangles (golden fried dough) -->
+<g>
+<path d="M120,255 L165,190 L205,255 Z" fill="#d97b2e"/>
+<path d="M120,255 L165,190 L150,255 Z" fill="#c96b1f" opacity="0.5"/>
+<path d="M165,190 L172,196 L127,258 L120,255 Z" fill="#f0a75f" opacity="0.6"/>
+
+<path d="M180,260 L222,198 L260,260 Z" fill="#e08635"/>
+<path d="M180,260 L222,198 L205,260 Z" fill="#c96b1f" opacity="0.5"/>
+<path d="M222,198 L229,204 L184,263 L180,260 Z" fill="#f4b276" opacity="0.6"/>
+
+<path d="M235,255 L275,198 L310,255 Z" fill="#d97b2e"/>
+<path d="M235,255 L275,198 L258,255 Z" fill="#c96b1f" opacity="0.5"/>
+</g>
+
+<!-- Samosas -->
+<g transform="translate(95,230)">
+<path d="M0,0 L28,0 L14,-32 Z" fill="#c96b1f"/>
+<path d="M0,0 L28,0 L14,-16 Z" fill="#e08635"/>
+</g>
+<g transform="translate(290,235)">
+<path d="M0,0 L26,0 L13,-30 Z" fill="#c96b1f"/>
+<path d="M0,0 L26,0 L13,-15 Z" fill="#e08635"/>
+</g>
+
+<!-- Sesame / sugar dots on mandazi -->
+<circle cx="160" cy="230" r="2.2" fill="#fde68a"/>
+<circle cx="175" cy="215" r="2" fill="#fde68a"/>
+<circle cx="222" cy="225" r="2.2" fill="#fde68a"/>
+<circle cx="238" cy="235" r="2" fill="#fde68a"/>
+<circle cx="150" cy="245" r="1.8" fill="#fef3c7"/>
+<circle cx="260" cy="230" r="2" fill="#fde68a"/>
+
+<!-- Chai cup accent -->
+<g transform="translate(310,175)">
+<path d="M-22,0 L22,0 L18,32 Q18,40 0,40 Q-18,40 -18,32 Z" fill="#ffffff" stroke="#e7e5e4" stroke-width="1.5"/>
+<ellipse cx="0" cy="0" rx="22" ry="6" fill="#c2410c"/>
+<path d="M22,8 Q36,10 34,22 Q32,32 20,28" fill="none" stroke="#e7e5e4" stroke-width="3"/>
+</g>
+
+<text x="200" y="365" font-family="Georgia, serif" font-size="16" fill="#a8a29e" text-anchor="middle" font-style="italic">Photo coming soon</text>
+</svg>
