@@ -1396,3 +1396,7 @@ a { text-decoration: none; color: inherit; }
 /* Align Book Now buttons across pricing cards */
 .pricing-card { display: flex; flex-direction: column; }
 .pricing-card .btn { margin-top: auto; }
+
+/* Space between the footer logo and the footer text */
+.footer-brand { gap: 1.5rem; flex-wrap: wrap; }
+.footer-brand-img { margin-bottom: 0; flex-shrink: 0; }
